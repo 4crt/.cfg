@@ -1,0 +1,4 @@
+# consider installing theme as a prerequisite
+Xcursor.theme: Breeze-Simple
+# for some apps change in `~/.config/gtk-3.0/settings.ini`
+# might be required as well
